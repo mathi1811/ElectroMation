@@ -1,0 +1,7 @@
+create table user2
+(
+ebid int,
+units blob,
+amount int,
+month int
+);
