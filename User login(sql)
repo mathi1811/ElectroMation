@@ -1,0 +1,5 @@
+create table user_login
+(
+username varchar(100),
+Pass varchar(8)
+);
