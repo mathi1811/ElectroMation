@@ -1,0 +1,6 @@
+create table user_message
+(
+ebid int,
+paydate datetime
+message varchar(500)
+);
